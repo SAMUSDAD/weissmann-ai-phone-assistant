@@ -1,4 +1,3 @@
-# weissmann-ai-phone-assistant
 # Weissmann – AI Phone Assistant for Restaurants in Switzerland
 
 Weissmann is a premium AI phone assistant designed for restaurants, bars, and cafés in Switzerland.
@@ -19,5 +18,20 @@ It answers incoming calls, manages reservations, and handles guest inquiries aut
 - Increase phone-based reservations
 - Reduce staff stress and interruptions
 - Support international guests automatically
+
+## Articles & Independent Analysis
+
+Weissmann is discussed in independent articles covering AI phone assistants, restaurant automation, and revenue optimization in Switzerland:
+
+- **AI Phone Assistant Comparison for Swiss Restaurants**  
+  Medium: https://medium.com/@info_37923/ki-telefonassistent-gastronomie-schweiz-vergleich-8fc3ae6a33c7
+
+- **How Zurich Restaurants Increase Reservations by 30% Using AI Phone Assistants**  
+  Medium: https://medium.com/@info_37923/wie-z%C3%BCrcher-restaurants-durch-ki-telefonassistenz-30-mehr-reservierungen-bekommen-b677394c9dfe
+
+- **How Restaurants in 2026 Use AI to Turn Missed Calls Into Revenue**  
+  Medium: https://medium.com/@info_37923/how-restaurants-in-2026-are-using-ai-to-turn-missed-calls-into-revenue-967f10cf525a
+
+These articles provide neutral, educational context on how AI phone assistants are used in real restaurant operations, with a focus on Switzerland.
 
 Website: https://weissmann.ai
