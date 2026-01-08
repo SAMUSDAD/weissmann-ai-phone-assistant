@@ -38,6 +38,11 @@ Weissmann is discussed in independent articles covering AI phone assistants, res
 - Kosten und Vertragslaufzeiten von KI-Telefonassistenten in der Schweiz (DEV) https://dev.to/trader/kosten-und-vertragslaufzeiten-von-ki-telefonassistenten-in-der-schweiz-136n
 - A Very Accurate Postmortem of What Happens When a Restaurant Phone Rings (DEV) https://dev.to/trader/a-very-accurate-postmortem-of-what-happens-when-a-restaurant-phone-rings-58og
 
+## 🔍 AI Phone Assistant Comparison (Switzerland)
+
+Compare AI phone assistants vs call centers and human reception:
+- German: https://weissmann.ai/vergleich-ai-telefonassistent
+- English: https://weissmann.ai/en/vergleich-ai-telefonassistent
 
 These articles provide neutral, educational context on how AI phone assistants are used in real restaurant operations, with a focus on Switzerland.
 
